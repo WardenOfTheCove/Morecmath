@@ -1,5 +1,6 @@
 # moreMath
 A C++ library which brings some more useful math functions. It builds off of the cmath library and brings commonly used math functions.
+*THIS PROJECT DID NOT USE AI*
 ## Current Functions
 - Cartesian to Spherical Coordinate converter
 - Degrees to Radians converter
