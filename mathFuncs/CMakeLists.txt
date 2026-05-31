@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.14)
+project(moreMath)
+add_library(moreMath STATIC funcs.cpp)
+set_target_properties(moreMath PROPERTIES PUBLIC_HEADER funcs.hpp)
+install(TARGETS moreMath LIBRARY DESTINATION lib PUBLIC_HEADER DESTINATION include/moreMath)
