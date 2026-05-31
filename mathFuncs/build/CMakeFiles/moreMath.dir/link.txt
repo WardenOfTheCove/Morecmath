@@ -1,2 +1,0 @@
-/usr/bin/ar qc libmoreMath.a CMakeFiles/moreMath.dir/funcs.cpp.o
-/usr/bin/ranlib libmoreMath.a

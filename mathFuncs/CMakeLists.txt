@@ -1,5 +1,12 @@
-cmake_minimum_required(VERSION 3.14)
-project(moreMath)
-add_library(moreMath STATIC funcs.cpp)
-set_target_properties(moreMath PROPERTIES PUBLIC_HEADER funcs.hpp)
-install(TARGETS moreMath LIBRARY DESTINATION lib PUBLIC_HEADER DESTINATION include/moreMath)
+cmake_minimum_required(VERSION 3.32)
+project(morecmath)
+add_library(morecmath)
+target_sources(morecmath
+    PUBLIC_HEADER
+        mathFuncs/morecmath/funcs.cpp
+    PUBLIC_HEADER FILE_SET HEADER
+    BASE_DIRS CMAKE_CURRENT_SOURCE_DIR 
+    FILES mathFuncs/morecmath/funcs.hpp
+)
+install(TARGETS morecmath LOCATION lib FILE_SET)
+# Make project, add library, define sources and how to interface, install
