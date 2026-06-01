@@ -1,2 +1,0 @@
-/usr/local/lib/libmorecmath.a
-/usr/include/morecmath/funcs.hpp

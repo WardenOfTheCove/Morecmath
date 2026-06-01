@@ -1,6 +1,7 @@
 #pragma once
 #include <cmath>
 #include <iostream>
+#include <stddef.h>
 #include <vector>
 
 namespace funcs {
