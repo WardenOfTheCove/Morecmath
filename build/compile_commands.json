@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/srikrishnav/Code/Calculator/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/morecmath.dir/funcs.cpp.o -c /home/srikrishnav/Code/Calculator/mathFuncs/funcs.cpp",
-  "file": "/home/srikrishnav/Code/Calculator/mathFuncs/funcs.cpp",
-  "output": "CMakeFiles/morecmath.dir/funcs.cpp.o"
-}
-]

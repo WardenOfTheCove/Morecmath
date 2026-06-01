@@ -1,7 +1,0 @@
-/home/srikrishnav/Code/Calculator/build/CMakeFiles/morecmath.dir
-/home/srikrishnav/Code/Calculator/build/CMakeFiles/edit_cache.dir
-/home/srikrishnav/Code/Calculator/build/CMakeFiles/rebuild_cache.dir
-/home/srikrishnav/Code/Calculator/build/CMakeFiles/list_install_components.dir
-/home/srikrishnav/Code/Calculator/build/CMakeFiles/install.dir
-/home/srikrishnav/Code/Calculator/build/CMakeFiles/install/local.dir
-/home/srikrishnav/Code/Calculator/build/CMakeFiles/install/strip.dir
