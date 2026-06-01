@@ -8,3 +8,4 @@ Then follow these steps:
 4. Run the __sudo make install__ command
 5. Use the library as <morecmath/funcs.hpp>.
 Have fun!
+![alt text](https://github.com/WardenOfTheCove/wardenofthecove.github.io/blob/master/20260531_204906.png?raw=true)
