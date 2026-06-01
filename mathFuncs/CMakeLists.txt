@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.32)
+cmake_policy(SET CMP0079 NEW)
 project(morecmath)
 add_library(morecmath STATIC funcs.cpp)
 set_target_properties(morecmath PROPERTIES PUBLIC_HEADER funcs.hpp)

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/srikrishnav/Code/Calculator/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
