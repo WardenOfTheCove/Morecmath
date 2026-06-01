@@ -6,5 +6,5 @@ Then follow these steps:
 2. Go into mathFuncs/build directory
 3. Run the __make__ command
 4. Run the __sudo make install__ command
-5. Use the library as <morecmath/funcs.hpp>
+5. Use the library as <morecmath/funcs.hpp>.
 Have fun!
