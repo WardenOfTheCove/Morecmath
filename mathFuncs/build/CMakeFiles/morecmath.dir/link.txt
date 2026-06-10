@@ -1,2 +1,0 @@
-/usr/bin/ar qc libmorecmath.a CMakeFiles/morecmath.dir/funcs.cpp.o
-/usr/bin/ranlib libmorecmath.a

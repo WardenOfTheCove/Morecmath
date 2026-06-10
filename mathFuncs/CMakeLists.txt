@@ -1,6 +1,13 @@
-cmake_minimum_required(VERSION 3.32)
-cmake_policy(SET CMP0079 NEW)
-project(morecmath)
-add_library(morecmath STATIC funcs.cpp)
-set_target_properties(morecmath PROPERTIES PUBLIC_HEADER funcs.hpp)
-install(TARGETS morecmath LIBRARY DESTINATION bin PUBLIC_HEADER DESTINATION /usr/include/morecmath)
+cmake_minimum_required(VERSION 3.15)
+project(morecmath CXX)
+
+
+
+
+add_library(morecmath src/funcs.cpp)
+target_include_directories(morecmath PUBLIC include)
+
+
+
+set_target_properties(morecmath PROPERTIES PUBLIC_HEADER "include/funcs.hpp")
+install(TARGETS morecmath)
