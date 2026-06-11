@@ -9,3 +9,4 @@ __THIS PROJECT DID NOT USE AI__
 - Dot Product calculator
 - Cross Product calculator
 - Factorial function
+![Alt text: Usage of morecmath](https://github.com/WardenOfTheCove/wardenofthecove.github.io/blob/master/20260531_204906.png)
