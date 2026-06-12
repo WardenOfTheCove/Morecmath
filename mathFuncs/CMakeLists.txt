@@ -1,10 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
 project(morecmath CXX)
 
-
-
-
-add_library(morecmath src/funcs.cpp)
+add_library(morecmath SHARED src/funcs.cpp)
 target_include_directories(morecmath PUBLIC include)
 
 

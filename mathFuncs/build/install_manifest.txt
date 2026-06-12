@@ -1,0 +1,2 @@
+/usr/local/lib/libmorecmath.so
+/usr/local/include/funcs.hpp
