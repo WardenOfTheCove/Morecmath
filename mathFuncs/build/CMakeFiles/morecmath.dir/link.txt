@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,--dependency-file=CMakeFiles/morecmath.dir/link.d -Wl,-soname,libmorecmath.so -o libmorecmath.so CMakeFiles/morecmath.dir/src/funcs.cpp.o
