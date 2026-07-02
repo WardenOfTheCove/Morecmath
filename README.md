@@ -8,4 +8,4 @@ To install the library, just download the morecmath.tar.gz file from the release
 Run the install script in the mathFuncs folder. The library will be installed and ready for use if you have CMake or Conan.
 Currently, I am looking into getting this published through Conan-Center
 ## Demonstration
-![Alt text = "Demonstration of usage of Morecmath"](https://github.com/WardenOfTheCove/wardenofthecove.github.io/blob/main/20260531_204906.png)
+![Alt text="Demonstration of usage of Morecmath"](https://github.com/WardenOfTheCove/Morecmath/blob/main/20260531_204906.png)
